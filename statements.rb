@@ -1,5 +1,5 @@
-run_code_inside = false
-chance_of_rain = 0.atan2puts "let's go outside!"
+
+chance_of_rain = 0.2 "let's go outside!"
 if chance_of_rain > 0.5
   puts "pack an umbrella!"
 elseputs "Enjoy the fine day!"
