@@ -4,3 +4,4 @@ if time == even
   print "Even!"
 else
   print "Odd!"
+end
