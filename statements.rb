@@ -1,6 +1,6 @@
-chance_of_rain = 0.2 
+chance_of_rain = 1
 puts "let's go outside!"
-if chance_of_rain < 0.5
+if chance_of_rain > 0.5
   puts "pack an umbrella!"
 else
   puts "Enjoy the fine day!"
